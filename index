@@ -3,7 +3,9 @@
 <header>
 	<h1>Git</h1>
 </header>
-<ul>	
+<ul>
+<li>git인란?</li>
+<li>버전</li>	
 </ul>
 </body>
 </html>
