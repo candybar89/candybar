@@ -1,9 +1,7 @@
 <html>
-<head>
-<title>
-git
-</title>
-</head>
+   <head>
+     <title>git</title>
+   </head>
 <body>
 <header>
 	<h1>Git</h1>
@@ -11,6 +9,7 @@ git
 <ul>
 <li>git인란?</li>
 <li>버전</li>	
+<li>브렌치</li>
 </ul>
 </body>
 </html>
